@@ -1,0 +1,3 @@
+2024-01-15 09:56:45,655 : ERROR : app : ['process failed', AttributeError("module 'PIL.Image' has no attribute 'ANTIALIAS'")]
+2024-01-15 09:59:23,605 : ERROR : app : ['process failed', AttributeError("module 'PIL.Image' has no attribute 'ANTIALIAS'")]
+2024-01-15 10:00:41,320 : ERROR : app : ['process failed', AttributeError("module 'PIL.Image' has no attribute 'ANTIALIAS'")]
